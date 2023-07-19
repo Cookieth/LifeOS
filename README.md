@@ -7,3 +7,9 @@ Resources:
  - Sortix: https://sortix.org/
  - ToaruOS: https://toaruos.org/
  - James Molloy's Kernel Development Tutorials: http://www.jamesmolloy.co.uk/tutorial_html/
+
+Notes:
+You need
+`brew install llvm`
+and
+`brew install binutils`
